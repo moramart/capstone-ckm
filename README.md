@@ -6,6 +6,8 @@ In developing this project, C# and the .NET Framework will be used to:
   * Implement player,team registration 
   * Account verification
   * Data scraping
+   * [CKMSports.com](http://ckmsports.com "CKM Main Page")
+   * [EliteProspects](http://jobs.eliteprospects.com "Elite Prospects Main Page")
   * Allow for team/job/player listings
   * Allow for documents to be uploaded and accessed by users
     * Contracts
