@@ -25,13 +25,13 @@ The system uses SSMS (SQL Service Management Studio) as a commmunication service
 
 # Context Data Flow
 1. Team
-   * Provides
+  * Provides
      * Travel arrangement
      * Extended offers
      * Player queries
      * Open positions
      * Messages to players
-   * Receives
+  * Receives
      * Messages from team/players
     
 2. Players
